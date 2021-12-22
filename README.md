@@ -1,4 +1,7 @@
 - 👋 Hi, I’m @rasheed1234567
+- 🌱 I’m currently learning everything 🤣
+🥅 2020 Goals: Contribute more to Open Source projects
+⚡ Fun fact: I love to draw and play guitar / drums
 - 👀 I’m interested in cloud native projects,devops 
 - 🌱 I’m currently learning devops
 - 💞️ I’m looking to collaborate on projects related to devops
